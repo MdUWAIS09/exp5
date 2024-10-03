@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hi  
 hello 
 bro
 
+=======
+this is a file in teacher branch
+>>>>>>> 8c252649f88b89fbf882fd22967a243ac0db2338
